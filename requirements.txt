@@ -10,7 +10,7 @@ chromadb>=0.4.20
 sqlalchemy>=2.0.0
 
 # Utilities
-pyyaml>=6.0
+pyyaml>=6.0.3
 python-dotenv>=1.0.0
 
 # Async support
