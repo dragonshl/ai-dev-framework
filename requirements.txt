@@ -2,7 +2,7 @@
 
 # Core dependencies
 langgraph>=0.0.40
-langchain-community>=0.0.20
+langchain-community>=0.4.1
 pydantic>=2.5.0
 
 # Database
