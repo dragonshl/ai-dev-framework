@@ -1,0 +1,21 @@
+# AI Development Framework Dependencies
+
+# Core dependencies
+langgraph>=0.0.40
+langchain-community>=0.0.20
+pydantic>=2.5.0
+
+# Database
+chromadb>=0.4.20
+sqlalchemy>=2.0.0
+
+# Utilities
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Async support
+aiofiles>=23.2.0
+
+# Note: AgentScope integration requires manual installation
+# Visit: https://github.com/modelscope/agentscope
+# agentscope>=0.1.0

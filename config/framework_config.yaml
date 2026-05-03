@@ -1,0 +1,59 @@
+# AI Development Framework Configuration
+
+agents:
+  planner:
+    model: qwen-max
+    temperature: 0.7
+    max_iterations: 10
+    tools:
+      - requirement_analyzer
+      - architecture_designer
+      
+  coder:
+    model: qwen-coder
+    temperature: 0.3
+    max_iterations: 5
+    tools:
+      - code_generator
+      - linter
+      - formatter
+      
+  reviewer:
+    model: qwen-max
+    temperature: 0.2
+    max_iterations: 3
+    tools:
+      - code_reviewer
+      - security_scanner
+      - performance_analyzer
+      
+  tester:
+    model: qwen-max
+    temperature: 0.3
+    max_iterations: 3
+    tools:
+      - test_generator
+      - test_runner
+
+langgraph:
+  checkpoint_backend: sqlite
+  max_retries: 3
+  timeout: 3600
+  human_interrupt_points:
+    - after_security_review
+    - before_deployment
+
+compound_engineering:
+  archive_path: docs/solutions
+  auto_compound: true
+  min_confidence: 0.8
+
+meta_harness:
+  experience_db: experiences/experience_db.json
+  optimization_interval: 10
+  metrics_tracking: true
+
+knowledge_base:
+  standards_dir: docs/standards
+  vector_db_type: chromadb
+  embedding_model: text-embedding-v2
