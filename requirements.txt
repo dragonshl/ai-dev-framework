@@ -14,7 +14,7 @@ pyyaml>=6.0
 python-dotenv>=1.0.0
 
 # Async support
-aiofiles>=23.2.0
+aiofiles>=25.1.0
 
 # Note: AgentScope integration requires manual installation
 # Visit: https://github.com/modelscope/agentscope
