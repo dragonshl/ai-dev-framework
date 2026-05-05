@@ -1,0 +1,29 @@
+GitHub Monitor Report - 2026-05-03 21:25:49
+============================================================
+Repository: dragonshl/ai-dev-framework
+
+📈 Repository Statistics:
+   • Stars: 1
+   • Forks: 0
+   • Open Issues: 12
+
+📋 Issues Summary:
+   • Total issues checked: 0
+
+🔀 Pull Requests Summary:
+   • Total PRs checked: 10
+   Recent PRs:
+     - #12: deps(deps): update langchain-community requirement from >=0.0.20 to >=0.4.1 [OPEN]
+     - #11: deps(deps): update pyyaml requirement from >=6.0 to >=6.0.3 [OPEN]
+     - #10: deps(deps): update python-dotenv requirement from >=1.0.0 to >=1.2.2 [OPEN]
+     - #9: deps(deps): update langgraph requirement from >=0.0.40 to >=1.1.10 [OPEN]
+     - #8: deps(deps): update chromadb requirement from >=0.4.20 to >=1.5.8 [OPEN]
+
+📝 Recent Activity:
+   • Commits in last 7 days: 2
+   Latest Commits:
+     - a424ce6b: Add GitHub workflows, issue templates, and contributing guidelines
+     - 6a64062d: Initial commit: Layered Intelligent Development Framework v1.0.0
+
+============================================================
+Report saved to: github-monitor-reports/

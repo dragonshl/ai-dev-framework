@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-05-03T21:25:34.235105",
+  "repository": "dragonshl/ai-dev-framework",
+  "checks_performed": [],
+  "issues": [],
+  "pull_requests": [
+    {
+      "number": 12,
+      "title": "deps(deps): update langchain-community requirement from >=0.0.20 to >=0.4.1",
+      "state": "open",
+      "created_at": "2026-05-03T13:17:22Z",
+      "updated_at": "2026-05-03T13:17:23Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/12"
+    },
+    {
+      "number": 11,
+      "title": "deps(deps): update pyyaml requirement from >=6.0 to >=6.0.3",
+      "state": "open",
+      "created_at": "2026-05-03T13:17:20Z",
+      "updated_at": "2026-05-03T13:17:21Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/11"
+    },
+    {
+      "number": 10,
+      "title": "deps(deps): update python-dotenv requirement from >=1.0.0 to >=1.2.2",
+      "state": "open",
+      "created_at": "2026-05-03T13:17:17Z",
+      "updated_at": "2026-05-03T13:17:18Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/10"
+    },
+    {
+      "number": 9,
+      "title": "deps(deps): update langgraph requirement from >=0.0.40 to >=1.1.10",
+      "state": "open",
+      "created_at": "2026-05-03T13:17:15Z",
+      "updated_at": "2026-05-03T13:17:15Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/9"
+    },
+    {
+      "number": 8,
+      "title": "deps(deps): update chromadb requirement from >=0.4.20 to >=1.5.8",
+      "state": "open",
+      "created_at": "2026-05-03T13:17:08Z",
+      "updated_at": "2026-05-03T13:17:09Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/8"
+    },
+    {
+      "number": 7,
+      "title": "deps(deps): update pydantic requirement from >=2.5.0 to >=2.13.3",
+      "state": "open",
+      "created_at": "2026-05-03T13:17:03Z",
+      "updated_at": "2026-05-03T13:17:04Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/7"
+    },
+    {
+      "number": 6,
+      "title": "deps(deps): update aiofiles requirement from >=23.2.0 to >=25.1.0",
+      "state": "open",
+      "created_at": "2026-05-03T13:16:58Z",
+      "updated_at": "2026-05-03T13:16:59Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/6"
+    },
+    {
+      "number": 5,
+      "title": "deps(deps): update sqlalchemy requirement from >=2.0.0 to >=2.0.49",
+      "state": "open",
+      "created_at": "2026-05-03T13:16:56Z",
+      "updated_at": "2026-05-03T13:16:57Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/5"
+    },
+    {
+      "number": 4,
+      "title": "ci(deps): bump actions/checkout from 3 to 6",
+      "state": "open",
+      "created_at": "2026-05-03T13:16:43Z",
+      "updated_at": "2026-05-03T13:16:44Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/4"
+    },
+    {
+      "number": 3,
+      "title": "ci(deps): bump actions/upload-artifact from 3 to 7",
+      "state": "open",
+      "created_at": "2026-05-03T13:16:39Z",
+      "updated_at": "2026-05-03T13:16:40Z",
+      "author": "dependabot[bot]",
+      "merged": false,
+      "url": "https://github.com/dragonshl/ai-dev-framework/pull/3"
+    }
+  ],
+  "recent_commits": [
+    {
+      "sha": "a424ce6b",
+      "message": "Add GitHub workflows, issue templates, and contributing guidelines",
+      "author": "dragonshl",
+      "date": "2026-05-03T12:57:27Z",
+      "url": "https://github.com/dragonshl/ai-dev-framework/commit/a424ce6b8ee625521eb3069046117e8127d9526a"
+    },
+    {
+      "sha": "6a64062d",
+      "message": "Initial commit: Layered Intelligent Development Framework v1.0.0",
+      "author": "AI Dev Framework Team",
+      "date": "2026-05-03T12:33:59Z",
+      "url": "https://github.com/dragonshl/ai-dev-framework/commit/6a64062df47ea386ba53a27c3de231e2a67435b6"
+    }
+  ],
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "summary": "GitHub Monitor Report - 2026-05-03 21:25:49\n============================================================\nRepository: dragonshl/ai-dev-framework\n\n📈 Repository Statistics:\n   • Stars: 1\n   • Forks: 0\n   • Open Issues: 12\n\n📋 Issues Summary:\n   • Total issues checked: 0\n\n🔀 Pull Requests Summary:\n   • Total PRs checked: 10\n   Recent PRs:\n     - #12: deps(deps): update langchain-community requirement from >=0.0.20 to >=0.4.1 [OPEN]\n     - #11: deps(deps): update pyyaml requirement from >=6.0 to >=6.0.3 [OPEN]\n     - #10: deps(deps): update python-dotenv requirement from >=1.0.0 to >=1.2.2 [OPEN]\n     - #9: deps(deps): update langgraph requirement from >=0.0.40 to >=1.1.10 [OPEN]\n     - #8: deps(deps): update chromadb requirement from >=0.4.20 to >=1.5.8 [OPEN]\n\n📝 Recent Activity:\n   • Commits in last 7 days: 2\n   Latest Commits:\n     - a424ce6b: Add GitHub workflows, issue templates, and contributing guidelines\n     - 6a64062d: Initial commit: Layered Intelligent Development Framework v1.0.0\n\n============================================================\nReport saved to: github-monitor-reports/",
+  "open_issues_count": 12,
+  "watchers_count": 1
+}
