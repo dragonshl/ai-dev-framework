@@ -7,7 +7,7 @@ pydantic>=2.5.0
 
 # Database
 chromadb>=0.4.20
-sqlalchemy>=2.0.0
+sqlalchemy>=2.0.50
 
 # Utilities
 pyyaml>=6.0
